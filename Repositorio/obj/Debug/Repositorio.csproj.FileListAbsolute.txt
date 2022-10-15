@@ -1,0 +1,14 @@
+D:\U de A Nata\V Semestre\Programación2\ConsultorioOdontol-gico-20220801T121024Z-001\Repositorio\bin\Debug\Repositorio.dll
+D:\U de A Nata\V Semestre\Programación2\ConsultorioOdontol-gico-20220801T121024Z-001\Repositorio\bin\Debug\Repositorio.pdb
+D:\U de A Nata\V Semestre\Programación2\ConsultorioOdontol-gico-20220801T121024Z-001\Repositorio\bin\Debug\Entidades.dll
+D:\U de A Nata\V Semestre\Programación2\ConsultorioOdontol-gico-20220801T121024Z-001\Repositorio\bin\Debug\Modelo.dll
+D:\U de A Nata\V Semestre\Programación2\ConsultorioOdontol-gico-20220801T121024Z-001\Repositorio\bin\Debug\Newtonsoft.Json.dll
+D:\U de A Nata\V Semestre\Programación2\ConsultorioOdontol-gico-20220801T121024Z-001\Repositorio\bin\Debug\Entidades.pdb
+D:\U de A Nata\V Semestre\Programación2\ConsultorioOdontol-gico-20220801T121024Z-001\Repositorio\bin\Debug\Modelo.pdb
+D:\U de A Nata\V Semestre\Programación2\ConsultorioOdontol-gico-20220801T121024Z-001\Repositorio\bin\Debug\Modelo.dll.config
+D:\U de A Nata\V Semestre\Programación2\ConsultorioOdontol-gico-20220801T121024Z-001\Repositorio\bin\Debug\Newtonsoft.Json.xml
+D:\U de A Nata\V Semestre\Programación2\ConsultorioOdontol-gico-20220801T121024Z-001\Repositorio\obj\Debug\Repositorio.csproj.AssemblyReference.cache
+D:\U de A Nata\V Semestre\Programación2\ConsultorioOdontol-gico-20220801T121024Z-001\Repositorio\obj\Debug\Repositorio.csproj.CoreCompileInputs.cache
+D:\U de A Nata\V Semestre\Programación2\ConsultorioOdontol-gico-20220801T121024Z-001\Repositorio\obj\Debug\Repositorio.csproj.CopyComplete
+D:\U de A Nata\V Semestre\Programación2\ConsultorioOdontol-gico-20220801T121024Z-001\Repositorio\obj\Debug\Repositorio.dll
+D:\U de A Nata\V Semestre\Programación2\ConsultorioOdontol-gico-20220801T121024Z-001\Repositorio\obj\Debug\Repositorio.pdb

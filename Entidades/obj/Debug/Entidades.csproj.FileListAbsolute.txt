@@ -1,0 +1,6 @@
+D:\U de A Nata\V Semestre\Programación2\ConsultorioOdontol-gico-20220801T121024Z-001\Entidades\bin\Debug\Entidades.dll
+D:\U de A Nata\V Semestre\Programación2\ConsultorioOdontol-gico-20220801T121024Z-001\Entidades\bin\Debug\Entidades.pdb
+D:\U de A Nata\V Semestre\Programación2\ConsultorioOdontol-gico-20220801T121024Z-001\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+D:\U de A Nata\V Semestre\Programación2\ConsultorioOdontol-gico-20220801T121024Z-001\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+D:\U de A Nata\V Semestre\Programación2\ConsultorioOdontol-gico-20220801T121024Z-001\Entidades\obj\Debug\Entidades.dll
+D:\U de A Nata\V Semestre\Programación2\ConsultorioOdontol-gico-20220801T121024Z-001\Entidades\obj\Debug\Entidades.pdb

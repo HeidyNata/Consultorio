@@ -1,0 +1,13 @@
+D:\U de A Nata\V Semestre\Programación2\ConsultorioOdontol-gico-20220801T121024Z-001\Negocio\bin\Debug\Negocio.dll
+D:\U de A Nata\V Semestre\Programación2\ConsultorioOdontol-gico-20220801T121024Z-001\Negocio\bin\Debug\Negocio.pdb
+D:\U de A Nata\V Semestre\Programación2\ConsultorioOdontol-gico-20220801T121024Z-001\Negocio\bin\Debug\Entidades.dll
+D:\U de A Nata\V Semestre\Programación2\ConsultorioOdontol-gico-20220801T121024Z-001\Negocio\bin\Debug\Newtonsoft.Json.dll
+D:\U de A Nata\V Semestre\Programación2\ConsultorioOdontol-gico-20220801T121024Z-001\Negocio\bin\Debug\Repositorio.dll
+D:\U de A Nata\V Semestre\Programación2\ConsultorioOdontol-gico-20220801T121024Z-001\Negocio\bin\Debug\Entidades.pdb
+D:\U de A Nata\V Semestre\Programación2\ConsultorioOdontol-gico-20220801T121024Z-001\Negocio\bin\Debug\Repositorio.pdb
+D:\U de A Nata\V Semestre\Programación2\ConsultorioOdontol-gico-20220801T121024Z-001\Negocio\bin\Debug\Newtonsoft.Json.xml
+D:\U de A Nata\V Semestre\Programación2\ConsultorioOdontol-gico-20220801T121024Z-001\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+D:\U de A Nata\V Semestre\Programación2\ConsultorioOdontol-gico-20220801T121024Z-001\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+D:\U de A Nata\V Semestre\Programación2\ConsultorioOdontol-gico-20220801T121024Z-001\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+D:\U de A Nata\V Semestre\Programación2\ConsultorioOdontol-gico-20220801T121024Z-001\Negocio\obj\Debug\Negocio.dll
+D:\U de A Nata\V Semestre\Programación2\ConsultorioOdontol-gico-20220801T121024Z-001\Negocio\obj\Debug\Negocio.pdb
